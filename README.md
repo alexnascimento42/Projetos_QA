@@ -1,2 +1,2 @@
 # Projetos_QA
- primeiro repositorio para projetos realizados
+ primeiro repositorio para projetos realizados.
