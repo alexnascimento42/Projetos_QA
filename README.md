@@ -1,2 +1,2 @@
-# Projetos_QA
- primeiro repositorio para projetos realizados.
+# Projetos_QA - iCasei
+ Teste Analista de Qualidade
